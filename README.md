@@ -1,3 +1,4 @@
+![photo_2025-08-07 20 29 43](https://github.com/user-attachments/assets/7070b7d9-d1a7-44b0-9f6d-34daf6ccb4bc)
 # iDevice_Activation-Lock_Bypass
 Bypass Activation Lock on iPhone and iPad 
 
@@ -13,6 +14,7 @@ Bypass Activation Lock on iPhone and iPad
 ✅ Skip Setup Wizard        
 ✅ Notifications Work       
 ✅ Quick “Erase Data” Button      
+
 ✅ Lock OTA & Erase Options        
 ✅ One-Click Jailbreak Included        
 
