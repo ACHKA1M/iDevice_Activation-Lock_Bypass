@@ -5,7 +5,7 @@ Bypass Activation Lock on iPhone and iPad
 💻 Untethered_Bypass
 ⚙️ No Serial Change | 📶 No Signal
 
-——— Features1 Bypass Tool:
+——— Bypass Tool Features:
 
 ✅ Survives Reboot – Untethered!
 ✅ iMessage & FaceTime Ready
